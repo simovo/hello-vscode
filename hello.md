@@ -7,7 +7,8 @@
 ## markdown 예제
 
 ```
-gfhfd
+gfhfdfkfi
+fgjd
  
 
 ㄹㅀㅇㅎㅇㅀㅇㅎㅇㅀㅇㅎㅇㅎㄹㅇㅎㅇㅎㅇffffㅀㅇ
@@ -15,5 +16,12 @@ gfhfd
 ```
 ~~취소선~~
 1. ㅇㅇ 2. ㅇㅇfdgdㅇ
-1. ㅇㅇ
-1. ㅇㄹㄴㅇ
+1. ㅇsdsdsdsㅇ
+1. ㅇㄹㄴㅇsdsdds
+
+d
+sd
+sd
+sdfgdgdf
+ds
+ds
