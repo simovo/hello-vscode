@@ -6,22 +6,4 @@
 
 ## markdown 예제
 
-```
-gfhfdfkfi
-fgjd
- 
-
-ㄹㅀㅇㅎㅇㅀㅇㅎㅇㅀㅇㅎㅇㅎㄹㅇㅎㅇㅎㅇffffㅀㅇ
-
-```
-~~취소선~~
-1. ㅇㅇ 2. ㅇㅇfdgdㅇ
-1. ㅇsdsdsdsㅇ
-1. ㅇㄹㄴㅇsdsdds
-
-d
-sd
-sd
-sdfgdgdf
-ds
-ds
+`
